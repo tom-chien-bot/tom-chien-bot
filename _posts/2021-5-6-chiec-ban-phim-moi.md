@@ -13,4 +13,5 @@ Tình hình là mới mua một chiếc bàn phím cơ blue switch layout 61% c�
 Sau khi mua về thì mình có thay một ít phím từ bộ keycap mario lúc trước đã mua cho chiếc bàn phím RK897 TKL
 
 ......
-ooooo
+
+<img  src="/assets/img/test-tcb.png">
